@@ -2,3 +2,4 @@
 
 1. [解析iTunes播放列表](https://github.com/liu-jianhao/learn_python_through_projects/tree/main/play_list)
 2. [图片添加数字](https://github.com/liu-jianhao/learn_python_through_projects/tree/main/image_add_number)
+3. [激活码](https://github.com/liu-jianhao/learn_python_through_projects/tree/main/activation_code)
